@@ -166,7 +166,7 @@ export default function WhyUsPage() {
                   <ArrowRight size={18} />
                 </a>
                 <a
-                  href="tel:+919876543210"
+                  href="tel:+918178850959"
                   className="inline-flex items-center justify-center gap-2 rounded-lg border-2 border-red-600 text-red-600 px-8 py-4 text-base font-bold transition-all duration-300 hover:bg-red-50 hover:shadow-lg hover:scale-105"
                 >
                   Call Now
